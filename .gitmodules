@@ -1,3 +1,6 @@
 [submodule "web/wp"]
 	path = web/wp
 	url = https://github.com/WordPress/WordPress.git
+[submodule "web/wp-content/plugins/sqlite-integration"]
+	path = web/wp-content/plugins/sqlite-integration
+	url = https://github.com/digi3colin/sqlite-integration.git
