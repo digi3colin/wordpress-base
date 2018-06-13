@@ -1,3 +1,4 @@
 .idea/
 db/db.sqlite
 web/config/local.php
+web/wp-content/uploads/

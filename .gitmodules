@@ -7,3 +7,9 @@
 [submodule "web/wp-content/plugins/woocommerce"]
 	path = web/wp-content/plugins/woocommerce
 	url = https://github.com/woocommerce/woocommerce.git
+[submodule "web/wp-content/plugins/woocommerce-gateway-stripe"]
+	path = web/wp-content/plugins/woocommerce-gateway-stripe
+	url = https://github.com/woocommerce/woocommerce-gateway-stripe.git
+[submodule "web/wp-content/plugins/woocommerce-gateway-paypal-express-checkout"]
+	path = web/wp-content/plugins/woocommerce-gateway-paypal-express-checkout
+	url = https://github.com/woocommerce/woocommerce-gateway-paypal-express-checkout.git
