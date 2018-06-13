@@ -13,3 +13,9 @@
 [submodule "web/wp-content/plugins/woocommerce-gateway-paypal-express-checkout"]
 	path = web/wp-content/plugins/woocommerce-gateway-paypal-express-checkout
 	url = https://github.com/woocommerce/woocommerce-gateway-paypal-express-checkout.git
+[submodule "web/wp-content/plugins/mailgun"]
+	path = web/wp-content/plugins/mailgun
+	url = https://github.com/mailgun/wordpress-plugin.git
+[submodule "web/wp-content/plugins/cloudflare"]
+	path = web/wp-content/plugins/cloudflare
+	url = https://github.com/cloudflare/Cloudflare-WordPress.git
