@@ -1,8 +1,13 @@
 <?php
+/* mySQL settings */
 define( 'DB_NAME', 'wordpress' );
 define( 'DB_USER', 'exampleuser' );
 define( 'DB_PASSWORD', 'examplepassword' );
 define( 'DB_HOST', 'localhost' );
+
+/* SQLite settings */
+define( 'DB_FILE', 'db.sqlite');
+define( 'DB_DIR', dirname( __FILE__ ).'/../../db/');
 
 ini_set( 'display_errors', E_ALL );
 define( 'WP_DEBUG_DISPLAY', true );
