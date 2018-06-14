@@ -4,3 +4,4 @@ web/config/local.php
 web/wp-content/uploads/
 .htaccess
 index.php
+backup/daily
